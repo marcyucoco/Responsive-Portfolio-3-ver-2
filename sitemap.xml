@@ -12,85 +12,25 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://marcyucocodesign.com/images/hamburger-icon.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg694x447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg694x447_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg290x187.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg290x187_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg277x179.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg277x179_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro587x378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro587x378_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg316x204.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg316x204_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro316x204.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro316x204_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro287x185.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro287x185_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro245x158.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro245x158_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/sos%20cover.jpg</image:loc>
+      <image:loc>http://marcyucocodesign.com/images/sos%20cover502x323.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/sos%20cover_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/sos%20cover587x378.jpg</image:loc>
+      <image:loc>http://marcyucocodesign.com/images/unretro500x323.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/sos%20cover587x378_2x.jpg</image:loc>
+      <image:loc>http://marcyucocodesign.com/images/unretro_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg502x324.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/sos%20cover316x204.jpg</image:loc>
@@ -99,16 +39,16 @@
       <image:loc>http://marcyucocodesign.com/images/sos%20cover316x204_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/sos%20cover287x185.jpg</image:loc>
+      <image:loc>http://marcyucocodesign.com/images/unretro316x204.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/sos%20cover287x185_2x.jpg</image:loc>
+      <image:loc>http://marcyucocodesign.com/images/unretro316x204_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/sos%20cover245x158.jpg</image:loc>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg316x204.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/sos%20cover245x158_2x.jpg</image:loc>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg316x204_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>

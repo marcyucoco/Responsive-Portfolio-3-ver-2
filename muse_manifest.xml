@@ -1,29 +1,29 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528113170900">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528144423997">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_portfolio-master.css" crc="3987962260" ref="portfolio-main-page"/>
-    <file name="nomq_preview_master_portfolio-master.css" crc="4045387868" ref="portfolio-main-page"/>
-    <file name="master_a-master.css" crc="4169938466" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4053574606" ref="index"/>
-    <file name="contact.css" crc="40607351" ref="contact"/>
-    <file name="nomq_contact.css" crc="362111366" ref="contact"/>
-    <file name="index.css" crc="4002905444" ref="index"/>
-    <file name="nomq_index.css" crc="391190698" ref="index"/>
-    <file name="about.css" crc="535779567" ref="about"/>
-    <file name="nomq_about.css" crc="4189677795" ref="about"/>
-    <file name="portfolio-main-page.css" crc="76159943" ref="portfolio-main-page"/>
-    <file name="nomq_portfolio-main-page.css" crc="3899821265" ref="portfolio-main-page"/>
-    <file name="menu-from-contact.css" crc="263704391" ref="menu-from-contact"/>
-    <file name="nomq_menu-from-contact.css" crc="343518554" ref="menu-from-contact"/>
-    <file name="menu-from-about.css" crc="4175968661" ref="menu-from-about"/>
-    <file name="nomq_menu-from-about.css" crc="343518554" ref="menu-from-about"/>
-    <file name="menu-from-portfolio.css" crc="4050668271" ref="menu-from-portfolio"/>
-    <file name="nomq_menu-from-portfolio.css" crc="343518554" ref="menu-from-portfolio"/>
     <file name="master_a-master-mobile-menu.css" crc="336653491" ref="contact:about"/>
     <file name="nomq_preview_master_a-master-mobile-menu.css" crc="3869564568" ref="contact:about"/>
+    <file name="master_mobile-menu.css" crc="4117948736" ref="menu-from-portfolio:menu-from-contact:menu-from-about"/>
+    <file name="nomq_preview_master_mobile-menu.css" crc="3824530138" ref="menu-from-portfolio:menu-from-contact:menu-from-about"/>
+    <file name="master_a-master.css" crc="4256273445" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4263294787" ref="index"/>
+    <file name="master_portfolio-master.css" crc="4125937035" ref="portfolio-main-page"/>
+    <file name="nomq_preview_master_portfolio-master.css" crc="3802277392" ref="portfolio-main-page"/>
+    <file name="contact.css" crc="171496442" ref="contact"/>
+    <file name="nomq_contact.css" crc="362111366" ref="contact"/>
+    <file name="index.css" crc="270370896" ref="index"/>
+    <file name="nomq_index.css" crc="349608088" ref="index"/>
+    <file name="about.css" crc="535779567" ref="about"/>
+    <file name="nomq_about.css" crc="4189677795" ref="about"/>
     <file name="portfolio-item---air-max-97.css" crc="131039766" ref="portfolio-item---air-max-97"/>
-    <file name="master_mobile-menu.css" crc="4117948736" ref="menu-from-contact:menu-from-about:menu-from-portfolio"/>
-    <file name="nomq_preview_master_mobile-menu.css" crc="3824530138" ref="menu-from-contact:menu-from-about:menu-from-portfolio"/>
+    <file name="menu-from-portfolio.css" crc="4050668271" ref="menu-from-portfolio"/>
+    <file name="nomq_menu-from-portfolio.css" crc="343518554" ref="menu-from-portfolio"/>
+    <file name="menu-from-contact.css" crc="263704391" ref="menu-from-contact"/>
+    <file name="nomq_menu-from-contact.css" crc="343518554" ref="menu-from-contact"/>
+    <file name="portfolio-main-page.css" crc="317206400" ref="portfolio-main-page"/>
+    <file name="nomq_portfolio-main-page.css" crc="377055262" ref="portfolio-main-page"/>
+    <file name="menu-from-about.css" crc="4175968661" ref="menu-from-about"/>
+    <file name="nomq_menu-from-about.css" crc="343518554" ref="menu-from-about"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -34,10 +34,10 @@
     <file name="museutils.js" crc="3803043152" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97"/>
     <file name="museconfig.js" crc="380897831" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97"/>
-    <file name="webpro.js" crc="242022427" ref="contact"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio"/>
     <file name="require.js" crc="4157109226" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97"/>
+    <file name="webpro.js" crc="242022427" ref="contact"/>
     <file name="form_check.php" crc="147359589" ref="contact"/>
     <file name="form_throttle.php" crc="93986428" ref="contact"/>
     <file name="form_process.php" crc="3851993751" ref="contact"/>
@@ -45,13 +45,23 @@
     <file name="jquery.scrolleffects.js" crc="530399994" ref="portfolio-main-page"/>
   </folder>
   <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio"/>
     <file name="u357-12.png" crc="459734439" ref="about"/>
     <file name="u357-12_2x.png" crc="4181482012" ref="about"/>
     <file name="u357-122.png" crc="77712867" ref="about"/>
     <file name="u357-12_2x2.png" crc="4248970760" ref="about"/>
+    <file name="hamburger-icon.svg" crc="4159666842" seo="true" ref="about:contact:portfolio-main-page">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="hamburger icon_poster_.png" crc="405010383" ref="about"/>
     <file name="u357-123.png" crc="104323095" ref="about"/>
     <file name="u357-12_2x3.png" crc="3833969444" ref="about"/>
-    <file name="blank.gif" crc="4208392903" ref="about:contact:portfolio-main-page:menu-from-contact:menu-from-portfolio:menu-from-about:index"/>
     <file name="u967.png" crc="172837257" ref="contact"/>
     <file name="u967_2x.png" crc="4104612042" ref="contact"/>
     <file name="u967-ferr.png" crc="287754760" ref="contact"/>
@@ -140,134 +150,56 @@
     <file name="u961-fse_2x4.png" crc="4111710462" ref="contact"/>
     <file name="u972-fss4.png" crc="248817842" ref="contact"/>
     <file name="u972-fss_2x4.png" crc="180029195" ref="contact"/>
-    <file name="silver bullet poster mockup.png" crc="425449628" seo="true" ref="portfolio-main-page">
+    <file name="sos cover502x323.jpg" crc="3939898078" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
-    <file name="silver bullet poster mockup_2x.png" crc="300552623" seo="true" ref="portfolio-main-page">
+    <file name="sos cover_2x.jpg" crc="258410678" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
-    <file name="hamburger-icon.svg" crc="4159666842" seo="true" ref="about:contact:portfolio-main-page">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
+    <file name="unretro500x323.jpg" crc="126810450" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
-    <file name="hamburger icon_poster_.png" crc="405010383" ref="about:portfolio-main-page"/>
-    <file name="x-icon.svg" crc="476143866" seo="true" ref="menu-from-contact:menu-from-about:menu-from-portfolio">
+    <file name="unretro_2x.jpg" crc="297939930" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="silver bullet poster on bg502x324.jpg" crc="4035005669" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="silver bullet poster on bg_2x.jpg" crc="483582245" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="sos cover316x204.jpg" crc="4179159737" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="sos cover316x204_2x.jpg" crc="419962956" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="unretro316x204.jpg" crc="287901023" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="unretro316x204_2x.jpg" crc="41358854" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="silver bullet poster on bg316x204.jpg" crc="3906139179" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="silver bullet poster on bg316x204_2x.jpg" crc="435659956" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="x-icon.svg" crc="476143866" seo="true" ref="menu-from-about:menu-from-contact:menu-from-portfolio">
       <caption webpage="menu-from-portfolio" alt=""/>
       <caption webpage="menu-from-portfolio" alt=""/>
-      <caption webpage="menu-from-contact" alt=""/>
-      <caption webpage="menu-from-contact" alt=""/>
       <caption webpage="menu-from-about" alt=""/>
       <caption webpage="menu-from-about" alt=""/>
+      <caption webpage="menu-from-contact" alt=""/>
+      <caption webpage="menu-from-contact" alt=""/>
     </file>
     <file name="x icon_poster_.png" crc="3803859259" ref="menu-from-about"/>
-    <file name="silver bullet poster on bg694x447.jpg" crc="3969804527" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg694x447_2x.jpg" crc="4098399865" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg290x187.jpg" crc="18154520" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg290x187_2x.jpg" crc="4037492483" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg.jpg" crc="3944806852" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg_2x.jpg" crc="3947218662" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg277x179.jpg" crc="400621548" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg277x179_2x.jpg" crc="269260880" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro.jpg" crc="505149256" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro_2x.jpg" crc="237266499" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro587x378.jpg" crc="4195896156" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro587x378_2x.jpg" crc="250071339" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg316x204.jpg" crc="472687092" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster on bg316x204_2x.jpg" crc="26000801" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro316x204.jpg" crc="3823185135" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro316x204_2x.jpg" crc="306660289" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro287x185.jpg" crc="507159469" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro287x185_2x.jpg" crc="288254125" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro245x158.jpg" crc="461017225" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="unretro245x158_2x.jpg" crc="464989364" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover.jpg" crc="61834370" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover_2x.jpg" crc="379594193" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover587x378.jpg" crc="3906995046" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover587x378_2x.jpg" crc="177167679" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover316x204.jpg" crc="320847702" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover316x204_2x.jpg" crc="4260235543" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover287x185.jpg" crc="89649860" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover287x185_2x.jpg" crc="254672312" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover245x158.jpg" crc="322178480" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="sos cover245x158_2x.jpg" crc="504576204" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4205334357" seo="true" mt="1528100266053" redirect="true"/>
+  <file name="index.html" crc="154440520" seo="true" mt="1528100266053" redirect="true"/>
   <file name="about.html" crc="3969204325" seo="true" mt="1528100140286" redirect="true"/>
-  <file name="contact.html" crc="4053224695" seo="true" mt="1528100175975" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="16149431" seo="true" mt="1528112800377" redirect="true"/>
+  <file name="contact.html" crc="456427768" seo="true" mt="1528100175975" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="236838282" seo="true" mt="1528144278663" redirect="true"/>
   <file name="menu-from-about.html" crc="4290812884" seo="true" mt="1528108215607" redirect="true"/>
   <file name="menu-from-contact.html" crc="3964793273" seo="true" mt="1528108208540" redirect="true"/>
   <file name="menu-from-portfolio.html" crc="4266784823" seo="true" mt="1528108192908" redirect="true"/>
