@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528095123278">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528097331962">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_portfolio-master.css" crc="450438979" ref="portfolio-main-page"/>
-    <file name="nomq_preview_master_portfolio-master.css" crc="325044389" ref="portfolio-main-page"/>
-    <file name="master_a-master.css" crc="4224030365" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3969198302" ref="index"/>
-    <file name="contact.css" crc="4226045945" ref="contact"/>
-    <file name="nomq_contact.css" crc="3910737292" ref="contact"/>
-    <file name="index.css" crc="3997205844" ref="index"/>
-    <file name="nomq_index.css" crc="188056688" ref="index"/>
-    <file name="about.css" crc="4282359678" ref="about"/>
-    <file name="nomq_about.css" crc="3806245297" ref="about"/>
-    <file name="portfolio-main-page.css" crc="4250506180" ref="portfolio-main-page"/>
-    <file name="nomq_portfolio-main-page.css" crc="4043963628" ref="portfolio-main-page"/>
+    <file name="master_portfolio-master.css" crc="3884278118" ref="portfolio-main-page"/>
+    <file name="nomq_preview_master_portfolio-master.css" crc="120107662" ref="portfolio-main-page"/>
+    <file name="master_a-master.css" crc="354269808" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4107748878" ref="index"/>
+    <file name="contact.css" crc="4155541993" ref="contact"/>
+    <file name="nomq_contact.css" crc="3953025040" ref="contact"/>
+    <file name="index.css" crc="4252576241" ref="index"/>
+    <file name="nomq_index.css" crc="3888453706" ref="index"/>
+    <file name="about.css" crc="274346690" ref="about"/>
+    <file name="nomq_about.css" crc="290490158" ref="about"/>
+    <file name="portfolio-main-page.css" crc="47893826" ref="portfolio-main-page"/>
+    <file name="nomq_portfolio-main-page.css" crc="4263768738" ref="portfolio-main-page"/>
     <file name="master_b-master.css" crc="3902369431" ref="menu-from-contact:menu-from-about:menu-from-portfolio"/>
     <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="menu-from-contact:menu-from-about:menu-from-portfolio"/>
     <file name="menu-from-contact.css" crc="3907496952" ref="menu-from-contact"/>
@@ -21,8 +21,8 @@
     <file name="nomq_menu-from-about.css" crc="264857249" ref="menu-from-about"/>
     <file name="menu-from-portfolio.css" crc="3794079388" ref="menu-from-portfolio"/>
     <file name="nomq_menu-from-portfolio.css" crc="264857249" ref="menu-from-portfolio"/>
-    <file name="master_a-master-mobile-menu.css" crc="4134368574" ref="contact:about"/>
-    <file name="nomq_preview_master_a-master-mobile-menu.css" crc="37390348" ref="contact:about"/>
+    <file name="master_a-master-mobile-menu.css" crc="4195070384" ref="contact:about"/>
+    <file name="nomq_preview_master_a-master-mobile-menu.css" crc="4239979219" ref="contact:about"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -50,7 +50,7 @@
     <file name="u357-12_2x2.png" crc="4248970760" ref="about"/>
     <file name="u357-123.png" crc="104323095" ref="about"/>
     <file name="u357-12_2x3.png" crc="3833969444" ref="about"/>
-    <file name="blank.gif" crc="4208392903" ref="about:contact:portfolio-main-page:menu-from-contact:menu-from-portfolio:menu-from-about"/>
+    <file name="blank.gif" crc="4208392903" ref="about:contact:portfolio-main-page:menu-from-contact:menu-from-portfolio:menu-from-about:index"/>
     <file name="u967.png" crc="172837257" ref="contact"/>
     <file name="u967_2x.png" crc="4104612042" ref="contact"/>
     <file name="u967-ferr.png" crc="287754760" ref="contact"/>
@@ -133,12 +133,12 @@
     <file name="u962_2x4.png" crc="3843885939" ref="contact"/>
     <file name="u962-r4.png" crc="353791690" ref="contact"/>
     <file name="u962-r_2x4.png" crc="3924614616" ref="contact"/>
-    <file name="u963-fs4.png" crc="3968537890" ref="contact"/>
-    <file name="u963-fs_2x4.png" crc="393950626" ref="contact"/>
-    <file name="u961-fse4.png" crc="403102936" ref="contact"/>
-    <file name="u961-fse_2x4.png" crc="4030428834" ref="contact"/>
-    <file name="u972-fss4.png" crc="3832233816" ref="contact"/>
-    <file name="u972-fss_2x4.png" crc="153967011" ref="contact"/>
+    <file name="u963-fs4.png" crc="514321172" ref="contact"/>
+    <file name="u963-fs_2x4.png" crc="419002439" ref="contact"/>
+    <file name="u961-fse4.png" crc="4066680264" ref="contact"/>
+    <file name="u961-fse_2x4.png" crc="4111710462" ref="contact"/>
+    <file name="u972-fss4.png" crc="248817842" ref="contact"/>
+    <file name="u972-fss_2x4.png" crc="180029195" ref="contact"/>
     <file name="silver bullet poster mockup.png" crc="425449628" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
@@ -181,11 +181,11 @@
     </file>
     <file name="x icon_poster_.png" crc="3803859259" ref="menu-from-about"/>
   </folder>
-  <file name="index.html" crc="4028233764" seo="true" mt="1528094878168" redirect="true"/>
-  <file name="about.html" crc="506582801" seo="true" mt="1528095054581" redirect="true"/>
-  <file name="contact.html" crc="266919994" seo="true" mt="1528095122960" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="4224384551" seo="true" mt="1528094878166" redirect="true"/>
-  <file name="menu-from-about.html" crc="127010742" seo="true" mt="1528094878163" redirect="true"/>
-  <file name="menu-from-contact.html" crc="3830463664" seo="true" mt="1528094878163" redirect="true"/>
-  <file name="menu-from-portfolio.html" crc="233206683" seo="true" mt="1528094878163" redirect="true"/>
+  <file name="index.html" crc="4273253191" seo="true" mt="1528097319080" redirect="true"/>
+  <file name="about.html" crc="444697605" seo="true" mt="1528097298513" redirect="true"/>
+  <file name="contact.html" crc="463555432" seo="true" mt="1528097298513" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="159938618" seo="true" mt="1528097238744" redirect="true"/>
+  <file name="menu-from-about.html" crc="4074094146" seo="true" mt="1528095847049" redirect="true"/>
+  <file name="menu-from-contact.html" crc="199249983" seo="true" mt="1528095847049" redirect="true"/>
+  <file name="menu-from-portfolio.html" crc="3828143183" seo="true" mt="1528095847049" redirect="true"/>
 </manifest>
