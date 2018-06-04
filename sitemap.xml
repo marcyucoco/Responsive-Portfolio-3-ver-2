@@ -44,6 +44,12 @@
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg313x202_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg277x179.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20on%20bg277x179_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://marcyucocodesign.com/menu-from-about.html</loc>

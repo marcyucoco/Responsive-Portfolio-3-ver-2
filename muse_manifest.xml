@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528105200900">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528107269388">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_portfolio-master.css" crc="4038973912" ref="portfolio-main-page"/>
+    <file name="master_portfolio-master.css" crc="3987962260" ref="portfolio-main-page"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="4045387868" ref="portfolio-main-page"/>
     <file name="master_a-master.css" crc="4169938466" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4053574606" ref="index"/>
@@ -11,8 +11,8 @@
     <file name="nomq_index.css" crc="391190698" ref="index"/>
     <file name="about.css" crc="535779567" ref="about"/>
     <file name="nomq_about.css" crc="4189677795" ref="about"/>
-    <file name="portfolio-main-page.css" crc="348245249" ref="portfolio-main-page"/>
-    <file name="nomq_portfolio-main-page.css" crc="12182761" ref="portfolio-main-page"/>
+    <file name="portfolio-main-page.css" crc="4170954683" ref="portfolio-main-page"/>
+    <file name="nomq_portfolio-main-page.css" crc="3830173455" ref="portfolio-main-page"/>
     <file name="menu-from-contact.css" crc="3907496952" ref="menu-from-contact"/>
     <file name="nomq_menu-from-contact.css" crc="290943986" ref="menu-from-contact"/>
     <file name="menu-from-about.css" crc="3956451233" ref="menu-from-about"/>
@@ -157,6 +157,7 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="hamburger icon_poster_.png" crc="405010383" ref="about:portfolio-main-page"/>
     <file name="x-icon.svg" crc="476143866" seo="true" ref="menu-from-contact:menu-from-about:menu-from-portfolio">
@@ -183,10 +184,8 @@
     </file>
     <file name="silver bullet poster on bg.jpg" crc="3843218839" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="silver bullet poster on bg_2x.jpg" crc="3773245281" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="silver bullet poster on bg313x202.jpg" crc="4126251639" seo="true" ref="portfolio-main-page">
@@ -195,11 +194,17 @@
     <file name="silver bullet poster on bg313x202_2x.jpg" crc="3913710692" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
+    <file name="silver bullet poster on bg277x179.jpg" crc="4188196344" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="silver bullet poster on bg277x179_2x.jpg" crc="443833624" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4205334357" seo="true" mt="1528100266053" redirect="true"/>
   <file name="about.html" crc="3969204325" seo="true" mt="1528100140286" redirect="true"/>
   <file name="contact.html" crc="4053224695" seo="true" mt="1528100175975" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="281628141" seo="true" mt="1528105195823" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="210136232" seo="true" mt="1528107255256" redirect="true"/>
   <file name="menu-from-about.html" crc="3942398415" seo="true" mt="1528099547016" redirect="true"/>
   <file name="menu-from-contact.html" crc="316113353" seo="true" mt="1528099547016" redirect="true"/>
   <file name="menu-from-portfolio.html" crc="261060077" seo="true" mt="1528099547016" redirect="true"/>
