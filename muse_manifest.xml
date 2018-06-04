@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528097331962">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528097723731">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_portfolio-master.css" crc="3884278118" ref="portfolio-main-page"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="120107662" ref="portfolio-main-page"/>
     <file name="master_a-master.css" crc="354269808" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4107748878" ref="index"/>
-    <file name="contact.css" crc="4155541993" ref="contact"/>
-    <file name="nomq_contact.css" crc="3953025040" ref="contact"/>
+    <file name="contact.css" crc="4056312686" ref="contact"/>
+    <file name="nomq_contact.css" crc="306947665" ref="contact"/>
     <file name="index.css" crc="4252576241" ref="index"/>
     <file name="nomq_index.css" crc="3888453706" ref="index"/>
     <file name="about.css" crc="274346690" ref="about"/>
@@ -21,8 +21,8 @@
     <file name="nomq_menu-from-about.css" crc="264857249" ref="menu-from-about"/>
     <file name="menu-from-portfolio.css" crc="3794079388" ref="menu-from-portfolio"/>
     <file name="nomq_menu-from-portfolio.css" crc="264857249" ref="menu-from-portfolio"/>
-    <file name="master_a-master-mobile-menu.css" crc="4195070384" ref="contact:about"/>
-    <file name="nomq_preview_master_a-master-mobile-menu.css" crc="4239979219" ref="contact:about"/>
+    <file name="master_a-master-mobile-menu.css" crc="289751450" ref="contact:about"/>
+    <file name="nomq_preview_master_a-master-mobile-menu.css" crc="37390348" ref="contact:about"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -169,7 +169,7 @@
       <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
-    <file name="hamburger icon_poster_.png" crc="405010383" ref="about"/>
+    <file name="hamburger icon_poster_.png" crc="405010383" ref="about:contact"/>
     <file name="x-icon.svg" crc="476143866" seo="true" ref="menu-from-contact:menu-from-about:menu-from-portfolio">
       <caption webpage="menu-from-portfolio" alt=""/>
       <caption webpage="menu-from-portfolio" alt=""/>
@@ -183,7 +183,7 @@
   </folder>
   <file name="index.html" crc="4273253191" seo="true" mt="1528097319080" redirect="true"/>
   <file name="about.html" crc="444697605" seo="true" mt="1528097298513" redirect="true"/>
-  <file name="contact.html" crc="463555432" seo="true" mt="1528097298513" redirect="true"/>
+  <file name="contact.html" crc="4075319603" seo="true" mt="1528097722807" redirect="true"/>
   <file name="portfolio-main-page.html" crc="159938618" seo="true" mt="1528097238744" redirect="true"/>
   <file name="menu-from-about.html" crc="4074094146" seo="true" mt="1528095847049" redirect="true"/>
   <file name="menu-from-contact.html" crc="199249983" seo="true" mt="1528095847049" redirect="true"/>
